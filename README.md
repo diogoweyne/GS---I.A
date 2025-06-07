@@ -21,6 +21,10 @@ Em situações de calamidade (enchentes, pandemias, desastres naturais), o acess
 
 ---
 
+## 🎥 Link do vídeo apresentando a solução:
+https://youtu.be/xKPXUJBKg9w
+
+
 ## 🧠 Justificativa da Técnica e do Modelo de Machine Learning
 
 Para este projeto, foi escolhido o modelo **Random Forest Classifier**, por apresentar as seguintes vantagens:
